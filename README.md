@@ -934,7 +934,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Burnermail](https://burnermail.io/) – Free 5 Burner Email Addresses, 1 Mailbox, 7-day Mailbox History
   * [Buttondown](https://buttondown.email/) — Newsletter service. Up to 100 subscribers free
   * [CloudMailin](https://www.cloudmailin.com/) - Incoming email via HTTP POST and transactional outbound - 10,000 free emails/month
-  * [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms)
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
   * [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
   * [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails daily.
